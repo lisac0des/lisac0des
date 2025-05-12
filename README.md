@@ -8,6 +8,7 @@
 
 📫 How to Reach Me:
 Email: lisauorie@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/elisabeth-orie/
 <!--
 **lisac0des/lisac0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
