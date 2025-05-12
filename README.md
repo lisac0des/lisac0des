@@ -25,6 +25,10 @@ Coming Soon!
 Email: lisauorie@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/elisabeth-orie/
+
+✨ Fun Fact:
+
+I am a triplet! You can often find me hanging out with my siblings when I'm not coding.
 <!--
 **lisac0des/lisac0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
