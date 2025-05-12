@@ -7,6 +7,7 @@
 🌱 I have a strong interest in IT, full-stack development, and data science. My academic and project experiences have given me a solid foundation in programming and software development, fueling my passion for using technology to solve real-world challenges. I’m eager to contribute my skills to a forward-thinking organization and drive innovative solutions.
 
 📫 How to Reach Me:
+
 Email: lisauorie@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/elisabeth-orie/
