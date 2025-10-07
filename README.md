@@ -1,6 +1,6 @@
 ## Hi, I'm Lisa 👋
 
-🎓 Junior at University of Texas at Arlington, studying Computer Science
+🎓 Senior at University of Texas at Arlington, studying Computer Science
 
 🔭 Aspiring Software Developer and Data and Machine Learning Enthusiast
 
